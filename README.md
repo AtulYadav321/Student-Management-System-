@@ -19,12 +19,12 @@ This is a simple Java-based GUI application designed to manage student informati
 ## Screenshots
 
 ### Main Interface
-![Main Interface](Source/file1ss.png)
+![Main Interface](file1ss.png)
 
 ### Fee Receipt Generation With saved data
-![Fee Receipt Generation](Source/file2ss.png)
+![Fee Receipt Generation](file2ss.png)
 ### Printing option also available
-![print ](Source/file3ss.png)
+![print ](file3ss.png)
 
 
 ## How to Run the Project
